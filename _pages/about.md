@@ -20,7 +20,9 @@ Biotech Research Club is a student run organisation at IIT Madras which serves a
   
 #### Neha Swaminathan
 
-<img src = "../images/person.png" width = "200" height = "200"> 
+<img src = "../images/Neha2.JPG" width = "200" height = "200"> 
+
+<p align="center">I'm a third-year undergraduate majoring in biological engineering. I am deeply interested in the complexities of cancer biology and other health-related research, and hope to someday make a positive contribution to the world. Apart from science, I’m also passionate about dance and music! </p>
 
 #### Sriya Veerapaneni 
 
