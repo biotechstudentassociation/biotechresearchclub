@@ -24,8 +24,9 @@ Biotech Research Club is a student run organisation at IIT Madras which serves a
 
 #### Sriya Veerapaneni 
 
-<img src = "../images/person.png" width = "200" height = "200"> 
+<img src = "../images/Sriya.jpg" width = "200" height = "200"> 
 
+I’m a third-year undergraduate majoring in biological sciences. I’m interested in understanding the complex nature of the brain through computational and experimental approaches. I enjoy painting or dancing in my free time.<br>
 
 ### Alumni Talks Coordinator (2020) 
 
