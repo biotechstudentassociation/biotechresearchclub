@@ -18,7 +18,7 @@ Apart from bio, I enjoy thriller novels, writing, cricket and crosswords!</p>
 
 #### Nanda Kumar 
 
-<img src = "../images/person.png" width = "200" height = "200"> 
+<img src = "../images/Nanda1.JPG" width = "150" height = "250"> 
 <p align="center"> I am a second year MS student working under Prof S.Mahalingam, on autophagic cell death in breast cancer cells. My fields of interests are cell cycle, cell signaling and curative medicine. My other interests are playing chess, reading biographies and getting to know about animal behavior.</p>
   
 #### Neha Swaminathan
