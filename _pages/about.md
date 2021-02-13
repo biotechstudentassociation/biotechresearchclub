@@ -12,7 +12,7 @@ Biotech Research Club is a student run organisation at IIT Madras which serves a
 
 #### Gayathri Prakash 
 
-<img src = "../images/person.png" width = "200" height = "200">
+<img src = "../images/Gayathri.png" width = "200" height = "200">
 <p align="center"> I am a third year Biosciences undergrad fascinated by the mechanisms of cell development and regulation, and love working in the lab. 
 Apart from bio, I enjoy thriller novels, writing, cricket and crosswords!</p>
 
