@@ -24,7 +24,7 @@ The Biotech Research Club is very happy to announce that this week's edition of 
 
 <b>Biography of the Speaker:</b> Poornima Kolhar is from the first batch of Biotech at IITM. She graduated in 2006. After her Btech she did her PhD in Bioengineering from UCSB where she designed nanoparticles for better bioavailability. After her PhD, she worked at Theranos - arguably the most famous (or infamous) biotech company in the silicon valley. She then went on to get her MBA degree from INSEAD (France) and she is currently a management consultant at LEK consulting.
 
-<b> Abstract: </b> After graduating from IITM, I have done a PhD, worked at a startup, got a business degree and am a business consultant. I will share a 2-3 stories from my experience that hopefully will be useful to the students in their careers. 
+<b> Abstract: </b> After graduating from IITM, I have done a PhD, worked at a startup, got a business degree and am a business consultant. I will share 2-3 stories from my experience that hopefully will be useful to the students in their careers. 
 
 
 ---
