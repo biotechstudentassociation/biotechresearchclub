@@ -11,6 +11,12 @@ permalink: /initiatives/
 ## Upcoming Talks
 ---
 
+Stay tuned!
+
+---
+## Old Talks 
+--- 
+
 The Biotech Research Club is very happy to announce that this week's edition of our Alumni Talks Series features Dr. Poornima Kolhar, an alumnus of the Batch of 2006, who is currently a management consultant with product strategy experience at L.E.K. 
 
 <img src="../images/BRC-Poster-25-02-2021.jpg" alt="drawing" width="600" />
@@ -26,8 +32,6 @@ The Biotech Research Club is very happy to announce that this week's edition of 
 <b> Abstract: </b> After graduating from IITM, I have done a PhD, worked at a startup, got a business degree and am a business consultant. I will share a 2-3 stories from my experience that hopefully will be useful to the students in their careers. 
 
 ---
-## Old Talks 
---- 
 
 The Biotech Research Club is very excited to host Prof. Ninitha AJ, a new member of the Department of Biotechnology, Bhupat and Jyothi Mehta School of Biosciences, IIT Madras.
 
