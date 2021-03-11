@@ -12,7 +12,19 @@ Biotech Research Club hosts a series featuring current graduate and post-graduat
 ## Upcoming Talks
 ---
 
-Stay tuned!
+The Biotech Research Club is very happy to announce that this week's edition of our Alumni Talks Series features Dr. Ganesh Kadamur, an alumnus of the Batch of 2008, who is currently a senior scientist at AstraZeneca. Please find attached the details of the talk, the poster, and a query form in which you can ask any questions you might have for the speaker. We look forward to seeing you there!  
+
+<img src="../images/BRC-Poster-11-03-2021.jpeg" alt="drawing" width="600" />
+
+<b> Title: </b> My journey from IITM to graduate school and onto pharma R&D
+
+<b> Date and Time: </b> Thursday, 11th March, 2021 at 6:30 PM 
+
+<b> Link: </b> [https://meet.google.com/qjh-jvsz-axv](https://meet.google.com/qjh-jvsz-axv)
+
+<b> Biography of the speaker </b>: I did my BTech Biotech at IITM passing out in 2008. I then went on to do a PhD in Molecular Biophysics at UT Southwestern Medical Center, Dallas working on G protein signaling in the lab of Dr.Elliott Ross. After this, I was a NCBS-Cambridge postdoctoral fellow in the labs of Dr.Christian Frezza and Dr.Sunil Laxman, where I did various projects on understanding yeast metabolism, designing metabolite sensors and applying these to study metabolic rewiring in cancers. I then joined AstraZeneca as a senior scientist in the basic R&D division, where I am a member of the Discovery Sciences team working on different oncology projects.
+
+<b> Abstract: </b> I will give a brief overview of the path I have taken so far that led me from insti to a career in research across academic and industry institutions. I will focus on the decisions and actions that created this path, and hope to share what I have learnt along the way.
 
 ---
 ## Old Talks
