@@ -11,6 +11,25 @@ permalink: /initiatives/
 ## Upcoming Talks
 ---
 
+The Biotech Research Club is very happy to announce that this week's edition of our Alumni Talks Series features Mr. Suresh Balsubramani, an alumnus (BTME-76), who is a corporate professional with significant interdisciplinary experiences in biology businesses. Please find attached the details of the talk, the poster, and a query form in which you can ask any questions you might have for the speaker. We look forward to seeing you there!  
+
+<img src="../images/BRC-Poster-17-03-2021.png" alt="drawing" width="600" />
+
+<b> Title: </b> Career Opportunities in the Biotechnology Industry
+
+<b> Date and Time: </b> Friday, 19th March, 2021 at 9:00 PM 
+
+<b> Link: </b> [meet.google.com/mcg-kyqp-kpy](meet.google.com/mcg-kyqp-kpy)
+
+<b> Biography of the speaker: </b> Mr. Suresh Balsubramani is an alumnus of IIT Madras, graduating with a B.Tech degree in Chemical Engg in 1976. While he preferred Math to Biology in school, he has spent his entire career in Biology. He is a consummate corporate professional and has significant interdisciplinary experiences in plant health, animal health, and human health businesses. He has met customers personally in over 50 countries around the world.
+
+<b> Abstract: </b> ‘The Age of Living Machines: How Biology Will Build the Next Technology Revolution’ is a book written in 2019 by Susan Hockfield, neuroscientist and past President of MIT.
+There is a biotechnology revolution beginning to happen that will define our lives the next 20+ years, in food, health, climate change, etc. The field is just taking off and what was unthinkable is beginning to happen. These developments provide significant industry opportunities for students with diverse skill sets. Students have an opportunity to reflect on the future and position themselves to leverage their unique knowledge, skills, and attitude. This talk will define possible opportunities in industry and help students to position themselves for a rich career ahead.
+
+---
+## Old Talks 
+--- 
+
 The Biotech Research Club is very happy to announce that this week's edition of our Alumni Talks Series features Dr. Ganesh Kadamur, an alumnus of the Batch of 2008, who is currently a senior scientist at AstraZeneca. Please find attached the details of the talk, the poster, and a query form in which you can ask any questions you might have for the speaker. We look forward to seeing you there!  
 
 <img src="../images/BRC-Poster-11-03-2021.jpeg" alt="drawing" width="600" />
@@ -26,8 +45,6 @@ The Biotech Research Club is very happy to announce that this week's edition of 
 <b> Abstract: </b> I will give a brief overview of the path I have taken so far that led me from insti to a career in research across academic and industry institutions. I will focus on the decisions and actions that created this path, and hope to share what I have learnt along the way.
 
 ---
-## Old Talks 
---- 
 
 The Biotech Research Club is very happy to announce that this week's edition of our Alumni Talks Series features Dr. Poornima Kolhar, an alumnus of the Batch of 2006, who is currently a management consultant with product strategy experience at L.E.K. 
 
