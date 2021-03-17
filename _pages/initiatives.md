@@ -11,7 +11,7 @@ permalink: /initiatives/
 ## Upcoming Talks
 ---
 
-The Biotech Research Club is very happy to announce that this week's edition of our Alumni Talks Series features Mr. Suresh Balsubramani, an alumnus (BTME-76), who is a corporate professional with significant interdisciplinary experiences in biology businesses. Please find attached the details of the talk, the poster, and a query form in which you can ask any questions you might have for the speaker. We look forward to seeing you there!  
+This week's edition of our Alumni Talks Series features Mr. Suresh Balsubramani, an alumnus (BTME-76), who is a corporate professional with significant interdisciplinary experiences in biology businesses. 
 
 <img src="../images/BRC-Poster-17-03-2021.png" alt="drawing" width="600" />
 
@@ -30,7 +30,7 @@ There is a biotechnology revolution beginning to happen that will define our liv
 ## Old Talks 
 --- 
 
-The Biotech Research Club is very happy to announce that this week's edition of our Alumni Talks Series features Dr. Ganesh Kadamur, an alumnus of the Batch of 2008, who is currently a senior scientist at AstraZeneca. Please find attached the details of the talk, the poster, and a query form in which you can ask any questions you might have for the speaker. We look forward to seeing you there!  
+The Biotech Research Club is very happy to announce that this week's edition of our Alumni Talks Series features Dr. Ganesh Kadamur, an alumnus of the Batch of 2008, who is currently a senior scientist at AstraZeneca.  
 
 <img src="../images/BRC-Poster-11-03-2021.jpeg" alt="drawing" width="600" />
 
