@@ -12,6 +12,27 @@ Biotech Research Club hosts a series featuring current graduate and post-graduat
 ## Upcoming Talks
 ---
 
+This week's edition of our Alumni Talks Series features Dr. Dhruva Katrekar, an alumnus of the Batch of 2015, who just completed his PhD from UCSD. 
+
+<img src="../images/BRC-Poster-26-03-21.jpeg" alt="drawing" width="600" />
+
+<b> Title: </b> Engineering a programmable RNA editing toolset for in vivo gene therapy
+
+<b> Date and Time: </b> Friday, 26th March, 2021 at 8:00 PM 
+
+<b> Link: </b> [https://meet.google.com/gmi-qtyo-qbq](https://meet.google.com/gmi-qtyo-qbq)
+
+<b> Query form: </b> https://cutt.ly/UxDZb9E
+
+<b> Biography of the speaker: </b> Dhruva Katrekar graduated with a B.Tech in Biotechnology from IIT Madras in 2015. While at insti, he worked with Dr. Madhulika Dixit in the Vascular Biology Lab studying endothelial dysfunction in type II diabetes. He also spent the summer of 2014 at the IGBMC, France, studying development of heart valves in zebrafish embryos, via the Charpak Internship Program. From these experiences he was convinced of pursuing graduate school and believed that he would continue working in the cardiovascular biology space. 
+He then started graduate school at UCSD in 2015 and on being exposed to their cutting-edge research, he was quite fascinated by the field of gene therapy that was blossoming with the advent of the CRISPR-Cas system. Thus, in his second rotation, he decided to try Dr. Prashant Mali's research group which was focused on building new tools for gene therapy and this is where he ended up spending the last 5 years. During his PhD, he worked on developing various tools such as a programmable adeno associated virus for gene delivery, a split-Cas9 for in vivo gene regulation and an adenosine deaminase based RNA editing tool for correction of point mutations in vivo. He graduated with a PhD in Bioengineering in January 2021 and is looking to spend the next couple of years trying to enable clinical translation of the RNA editing toolset. He believes that technology development is a highly risky space but allows one to unleash one’s creativity!
+
+<b> Abstract: </b> While human genetic diseases can be caused by point mutations, insertions/deletions, chromosomal translocations or copy number variations, point mutations account for 58% of the pathogenic genetic variants causing disease. Programmable nucleases such as CRISPR-Cas are powerful tools but their use for the correction of point mutations in vivo poses some major challenges, namely, the threat of introducing permanent off-target mutations in the genome and immunogenicity due to their prokaryotic origin. In this talk, I shall discuss development and characterization of an RNA editing toolset of human origin for correction of guanosine-to-adenosine mutations and premature stop codons. I engineer guide RNA to recruit endogenous and exogenous human adenosine deaminase acting on RNA (ADAR) enzymes to target transcripts and catalyze adenosine-to-inosine (guanosine) modifications. In proof-of-concept studies, I repair disease-causing premature stop codons and splice-site mutations in mouse models of Duchenne muscular dystrophy (DMD), Hurler syndrome and ornithine transcarbamylase (OTC) deficiency. 
+
+---
+## Old Talks
+--- 
+
 This week's edition of our Alumni Talks Series features Mr. Suresh Balsubramani, an alumnus (BTME-76), who is a corporate professional with significant interdisciplinary experiences in biology businesses.  
 
 <img src="../images/BRC-Poster-17-03-2021.png" alt="drawing" width="600" />
@@ -28,8 +49,6 @@ This week's edition of our Alumni Talks Series features Mr. Suresh Balsubramani,
 There is a biotechnology revolution beginning to happen that will define our lives the next 20+ years, in food, health, climate change, etc. The field is just taking off and what was unthinkable is beginning to happen. These developments provide significant industry opportunities for students with diverse skill sets. Students have an opportunity to reflect on the future and position themselves to leverage their unique knowledge, skills, and attitude. This talk will define possible opportunities in industry and help students to position themselves for a rich career ahead.
 
 ---
-## Old Talks
---- 
 
 The Biotech Research Club is very happy to announce that this week's edition of our Alumni Talks Series features Dr. Ganesh Kadamur, an alumnus of the Batch of 2008, who is currently a senior scientist at AstraZeneca.  
 
