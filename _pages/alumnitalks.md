@@ -14,6 +14,8 @@ Biotech Research Club hosts a series featuring current graduate and post-graduat
 
 This week's edition of our Alumni Talks Series features Atmika Paul, who did her MS from IITM and is currently pursuing a PhD at the Max Planck Institute. 
 
+<img src="../images/Atmika.png" alt="drawing" width="600" />
+
 <b> Title: </b> Deciphering the role of TGF-ß signalling in maintenance of genomic integrity in pancreatic cancer
 
 <b> Date and Time: </b> Friday, 9th April, 2021 at 8:30 PM 
