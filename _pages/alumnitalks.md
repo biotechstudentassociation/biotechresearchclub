@@ -12,6 +12,26 @@ Biotech Research Club hosts a series featuring current graduate and post-graduat
 ## Upcoming Talks
 ---
 
+This week's edition of our Alumni Talks Series features Atmika Paul, who did her MS from IITM and is currently pursuing a PhD at the Max Planck Institute. 
+
+<b> Title: </b> Deciphering the role of TGF-ß signalling in maintenance of genomic integrity in pancreatic cancer
+
+<b> Date and Time: </b> Friday, 9th April, 2021 at 8:30 PM 
+
+<b> Link: </b> [meet.google.com/krw-wkhx-xra](meet.google.com/krw-wkhx-xra)
+
+<b> Query form: </b> https://cutt.ly/5cC1ctq
+
+<b> Biography of the speaker: </b> She did her  Master's in research in cancer biology in Dr. Mahalingam's lab, and later joined as a PhD research scholar in NUS Singapore. Then she finished her  Master's/PhD coursework with the International Max Planck Molecular Biology program and currently  she is pursuing PhD in Cellular Oncology.  She is also the student representative of the Pancreatic cancer Genome dynamics research unit. She works on  understanding the underlying molecular mechanisms that govern cancer progression and define targeted therapeutic strategies for better clinical management of cancer.
+
+<b> Abstract: </b> Clinical management of Pancreatic Cancer (PC) continues to be a formidable challenge despite recent breakthroughs in diagnostics & therapeutics. Pronounced Chromosomal Instability (CIN) is a hallmark of PC and is associated with therapeutic resistance, increased metastasis, late-stage diagnosis and poor 5-year survival rate (~5-10%), making it one of the most lethal cancers. Alarmingly, it is predicted to become the second-leading cause of cancer-related deaths by 2030. Although pathologically heterogeneous, the PC genome shows recurrent patterns of genetic alterations. Thus, combining molecular-driven therapeutic approaches with current histopathological criteria can significantly improve patient stratification.
+
+One of the most frequent genetic alterations in Pancreatic Ductal Adenocarcinomas (PDACs) is the inactivation of SMAD4 (~55%), a central mediator of canonical TGF-β signaling pathway. Our recent work suggests that altered TGF-β signaling directly affects CIN in PDACs. Mechanistically, we found evidence that these chromosomal aberrations are driven by abnormal microtubule dynamics in mitotic cells. Our project aims at dissecting the molecular consequences of aberrant TGF-β signaling in pathogenesis of PC. This research will improve understanding of pathways governing genome maintenance and explore exciting avenues for stratifying SMAD4-deficient PC patients. We hope to devise a novel strategy for targeting pancreatic cancer by combining existing microtubule-targeting drugs and anti-TGFβ therapies.
+
+---
+## Old Talks
+---
+
 This week's edition of our Alumni Talks Series features Dr. Dhruva Katrekar, an alumnus of the Batch of 2015, who just completed his PhD from UCSD. 
 
 <img src="../images/BRC-Poster-26-03-21.jpeg" alt="drawing" width="600" />
@@ -29,8 +49,6 @@ He then started graduate school at UCSD in 2015 and on being exposed to their cu
 
 <b> Abstract: </b> While human genetic diseases can be caused by point mutations, insertions/deletions, chromosomal translocations or copy number variations, point mutations account for 58% of the pathogenic genetic variants causing disease. Programmable nucleases such as CRISPR-Cas are powerful tools but their use for the correction of point mutations in vivo poses some major challenges, namely, the threat of introducing permanent off-target mutations in the genome and immunogenicity due to their prokaryotic origin. In this talk, I shall discuss development and characterization of an RNA editing toolset of human origin for correction of guanosine-to-adenosine mutations and premature stop codons. I engineer guide RNA to recruit endogenous and exogenous human adenosine deaminase acting on RNA (ADAR) enzymes to target transcripts and catalyze adenosine-to-inosine (guanosine) modifications. In proof-of-concept studies, I repair disease-causing premature stop codons and splice-site mutations in mouse models of Duchenne muscular dystrophy (DMD), Hurler syndrome and ornithine transcarbamylase (OTC) deficiency. 
 
----
-## Old Talks
 --- 
 
 This week's edition of our Alumni Talks Series features Mr. Suresh Balsubramani, an alumnus (BTME-76), who is a corporate professional with significant interdisciplinary experiences in biology businesses.  
